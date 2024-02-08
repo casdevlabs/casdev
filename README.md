@@ -1,6 +1,6 @@
-# CAS-Sh (CAS Software Hub)
+# CASDev (CAS Development)
 
-Welcome to CAS-Sh, the central repository hub for CAS' software engineering projects. This repository acts as the gateway to various CAS and CASBytes repositories, providing a consolidated view of our diverse range of projects.
+Welcome to CASDev, the central repository hub for CASDev software engineering projects. This repository acts as the gateway to various CASDev and CASBytes repositories, providing a consolidated view of our diverse range of projects.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ Welcome to CAS-Sh, the central repository hub for CAS' software engineering proj
 
 ## Introduction
 
-CAS-Sh (CAS Software Hub) is designed to streamline access to our software engineering projects. Whether you're a team member, contributor, or user, this hub serves as a starting point to explore and engage with CAS' and CASBytes' work.
+CASDev (CASDev Software) is designed to streamline access to our software engineering projects. Whether you're a team member, contributor, or user, this hub serves as a starting point to explore and engage with CASDev and CASBytes' work.
 
 ## Repository Structure
 
